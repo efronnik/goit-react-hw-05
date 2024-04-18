@@ -1,0 +1,27 @@
+.card {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.imgWrapper {
+  min-width: 200px;
+  max-width: 250px;
+}
+
+.img {
+  width: 100%;
+}
+
+.score {
+  margin-bottom: 10px;
+}
+
+.overview {
+  margin-bottom: 10px;
+}
+
+.genres {
+  display: flex;
+  gap: 10px;
+}
